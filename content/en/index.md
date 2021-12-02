@@ -37,7 +37,7 @@ It is free-to-use and as an added perk completely Open Source!
 - Access browser blocked APIS with [proxy](https://github.com/hoppscotch/proxyscotch)
 - History: Request entries are synced with cloud/local session storage to restore with a single click
 
-### GraphQl platform
+### GraphQL platform
 
 - Peak into your graphql endpoint, build your queries, organise them into 🗄️collections
 
@@ -56,8 +56,8 @@ It is free-to-use and as an added perk completely Open Source!
 ## Quick Links
 
 - [Github](https://github.com/hoppscotch)
-- [Contribute to Hoppscotch](/community/contribution-guide)
-- [Setup Hoppscotch in local environment](/community/local-setup)
+- [Contribute to Hoppscotch](/develop)
+- [Setup Hoppscotch in local environment](/develop#local-development-environment)
 
 ## Other Links
 
